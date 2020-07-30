@@ -1,0 +1,3 @@
+2020-07-30 10:53:30.525 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting MyApplication on DESKTOP-L0NG5DV with PID 20008 (F:\ideawork\SpringBoot-Shiro-Vue\back\target\classes started by Administrator in F:\ideawork\SpringBoot-Shiro-Vue\back)
+2020-07-30 10:53:30.525 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
+2020-07-30 10:53:32.576 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started MyApplication in 2.316 seconds (JVM running for 3.617)
